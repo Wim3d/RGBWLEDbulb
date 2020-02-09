@@ -8,7 +8,7 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPUpdateServer.h>
-#include <credentials.h>
+#include <credentials.h>         //definition of mySSID, myPASSWORD
 
 // base values
 const char* software_version = "version 3";
